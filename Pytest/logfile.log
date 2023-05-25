@@ -1,0 +1,8 @@
+2023-05-11 22:58:31,976 : INFO : test_editprofile : ['Pooja', 'Kale', 'Bavdhan']
+2023-05-11 22:58:31,976 : INFO : test_editprofile : Kale
+2023-05-11 22:58:31,976 : WARNING : Pytest.test_Logging : warning
+2023-05-11 22:58:31,976 : ERROR : Pytest.test_Logging : error
+2023-05-11 22:58:31,976 : CRITICAL : Pytest.test_Logging : critical
+2023-05-19 14:05:10,598 : WARNING : Pytest.test_Logging : warning
+2023-05-19 14:05:10,598 : ERROR : Pytest.test_Logging : error
+2023-05-19 14:05:10,598 : CRITICAL : Pytest.test_Logging : critical
