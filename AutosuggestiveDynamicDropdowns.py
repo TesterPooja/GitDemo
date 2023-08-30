@@ -6,7 +6,9 @@ import time
 options = webdriver.ChromeOptions()
 options.add_experimental_option('detach', True)
 
+
 service_obj = Service("C:/Users/Pooja/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe")
+
 driver = webdriver.Chrome(options=options, service=service_obj)
 
 driver.maximize_window()

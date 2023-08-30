@@ -2,6 +2,7 @@ str = " RahulShettyAcademy.com "
 str1 = "Consulting firm"
 str3 = "RahulShetty"
 
+
 unique_str = sorted(set(char for char in str if char != ' ' and char != '.'))    # remove duplicates form string
 print(unique_str)
 

@@ -4,10 +4,17 @@
 ItemsInCart = 0
 
 if ItemsInCart != 2:        # using exception method
+
     raise Exception("products cart count not matched")
     # pass  pass statement does nothing,it just passes the condition since we have commented line for exception method
 
 assert ItemsInCart == 0      # using assertion method
+
+    # raise Exception("products cart count not matched")
+    pass  # pass statement does nothing,it just passes the condition since we have commented line for exception method
+
+assert (ItemsInCart == 0)      # using assertion method
+
 
 print("***************  TRY CATCH MECHANISM  *****************")
 
